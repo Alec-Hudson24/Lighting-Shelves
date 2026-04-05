@@ -41,8 +41,8 @@
 ![First Coat of Paint](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Painting%20Picture.PNG)
 *Painting the Shelves*
 
-![PhotoName]()
-*Placeholder*
+![Assembly](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Assembly.PNG)
+*Process used to assemble the shelves*
 
 ![Finished](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Finished%20Shelves%20with%20Falcon.jpeg)
 *Final Picture of my Shelves*
