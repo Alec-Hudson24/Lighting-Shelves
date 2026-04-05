@@ -28,11 +28,24 @@
 
 
 ## Visuals
-![Finished](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Finished%20Shelves%20with%20Falcon.jpeg)
-*Final Picture of my Shelves*
+
+![Before Room](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Before%20Bed.JPEG)
+*My room before the shelves*
+
+![Solidworks Model](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Solidworks%20Assembly%20of%20my%20room.PNG)
+*My Solidworks model of how I initially wanted the shelves to look*
+
+![Woodworking at night](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Cutting%20at%20Night.JPEG)
+*Cutting all the wood at night*
 
 ![PhotoName]()
 *Placeholder*
+
+![PhotoName]()
+*Placeholder*
+
+![Finished](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Finished%20Shelves%20with%20Falcon.jpeg)
+*Final Picture of my Shelves*
 
 
 
