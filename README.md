@@ -38,8 +38,8 @@
 ![Woodworking at night](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Cutting%20at%20Night.JPEG)
 *Cutting all the wood at night*
 
-![PhotoName]()
-*Placeholder*
+![First Coat of Paint](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Painting%20Picture.PNG)
+*Painting the Shelves*
 
 ![PhotoName]()
 *Placeholder*
