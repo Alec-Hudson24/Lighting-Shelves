@@ -21,7 +21,7 @@
   
 ## Project Links & Resources
 - **Demo & Testing Video** (full stair climb + flat rolling + assembly time-lapse):  
-  [Process Video]()
+  [Process Video COMING SOON]()
 
   ## Future Improvements / Ideas
 - Connect the lights to homeassistant to create a scheudle or to have more control over them
