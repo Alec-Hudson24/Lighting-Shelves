@@ -28,8 +28,8 @@
 
 
 ## Visuals
-![PhotoName]()
-*Placeholder*
+![Finished](https://github.com/Alec-Hudson24/Lighting-Shelves/blob/main/Finished%20Shelves%20with%20Falcon.jpeg)
+*Final Picture of my Shelves*
 
 ![PhotoName]()
 *Placeholder*
